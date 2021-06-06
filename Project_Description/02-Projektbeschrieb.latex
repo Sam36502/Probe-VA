@@ -1,0 +1,155 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{Project Description}
+\author{Samuel Pearce}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\pagebreak
+
+\section{Problem Description}
+The problem to be inquired into as the subject of this final paper (VA)
+is that the acquisition of language is still a poorly-understood process.
+The main problem is also that I am unaware of the true extent of this field.
+Through this VA, I intend to expand my knowledge on the subject and conduct
+a small, informal experiment of my own, to document the process of language
+acquisition through immersion in comprehensible input.
+
+\section{Current State of Research}
+At the moment, the most commonly accepted --- but still highly controversial
+--- theory, is that humans have an inate biological framework for language
+that allows us to acquire it through immersion when we are extremely young.
+This implies the existence of some structure that must be common to all of
+the world's languages --- what's known as Chomsky's universal grammar. This
+has prompted the research and documentation of many languages and their base
+structures to find the common thread.
+
+So far, that common feature seems to be recursion --- the ability to build
+on top of previous ideas to create succesively complex concepts. This is
+most obviously seen in languages where multiple sentences can be nested. For
+example: ``The man, who's car had been rusting, because it had rained a lot,
+liked to eat fish.''
+
+There has been some evidence that might debunk this claim, but more samples
+of languages are needed and much more time is required to process it in order to
+conclusively prove any theory of universal grammar.
+
+\section{Questions to be Answered}
+There are two questions to be answered by myself (Samuel Pearce) by this VA.
+They are as follows:
+\begin{enumerate}
+ \item What, if any, linguistic features are univeral to all natural human languages,
+ and what are the known facts about Chomsky's universal grammar, as of the time of this VA?
+ \item How does language acquisition work in adults and how effectively can an
+ adult learn a language through immersion and comprehensible input alone?
+\end{enumerate}
+The goal of the final document to be handed in, is to provide answers to these
+questions to the best of my ability and knowledge. The final document must also
+cite all utilised sources for the claims made therein.
+
+\section{Method}
+The method I have chosen to answer these questions is twofold:
+
+For the first part --- the UG Summary --- I will research universal grammar by
+reading one (or two, if time permits) linguistic textbooks on the subject and write a summary of their
+contents while citing the sources of my claims. The aim of the summary is to show
+my understanding of the topic and prove my ability to use academic sources in a
+paper. The summary will be written as a surface-level introduction aimed towards
+readers who are familiar with the fundamentals of linguistics.
+
+The second part --- the experiment --- will be used to gain information on the
+acquisition of language through pure immersion for adults.
+I will spend time with volunteers speaking toki pona
+\footnote{
+toki pona is a minimal language constructed by Sonja Lang in 2001. It is
+designed to have as small of a lexicon as possible, while still being able to express
+complex concepts. It was created in order to simplify the speaker's thoughts, according
+to the Sapir-Whorf hypothesis.
+}
+This language has been chosen for its simple grammar
+and lexicon size, in order to keep the time-frame of the experiment minimal. One of the
+volunteers will be provided with lessons and flashcards to learn the language with, the
+``traditional'' way, while the other will be simply immersed in the language with me
+answering any questions in the language and provided with pure toki pona resources. Once
+the volunteers have reached a minimum of semi-fluency (the point where the most basic
+conversations can be had), I will record an interview with them in toki pona to show
+their ability. The interview will be transcribed and translated into a report for the
+final document. This report will also include details of the acquisition process and
+my method of teaching.
+
+Once both halves of the project have been completed, the UG Summary, the Experiment report,
+and a journal of the steps taken throughout the whole project (the Work Log) will
+be compiled with introduction and review sections into the final report.
+
+\section{Required Materials}
+For required materials, I have listed some books which should serve as a good
+introduction as well as solid literary source for the UG Summary. They are:
+\begin{itemize}
+ \item Chomsky's Universal Grammar: An Introduction\\(ISBN-13: 978-1-4051-1186-7)
+ \item Universal Grammar in Second-Language Acquisition: A History\\(ISBN-13: 978-0-5217-9647-7)
+\end{itemize}
+
+For the Experiment, I will use ``Toki Pona: The Language of Good (ISBN-13: 978-0-9782-9230-0)''
+as the reference grammar for toki pona.
+For the interview with the volunteers, I will use audio recording software such as Audacity,
+or the audio recording capabilities of my phone. All documentation will either be performed
+using Microsoft Word or PDFLaTeX and Kile editor.
+
+\section{Task Division}
+The tasks can, for the most part, be run in parallel; the UG Summary can be researched and
+written during the time provided from TBZ, and the experiment can be run in my free time,
+so that I can conform to the schedules of the volunteers. This way, both parts of the project
+can be compeleted at the same time before compiling the results into the final document.
+
+The task division for the UG summary would only really consist of first reading through
+the selected literature to look for the most important points to compile in the sumamry,
+which would be followed by writing the summary while citing the sources. Finally, the
+written summary would be redrafted and tweaked according to feedback.
+
+For the experiment, the first part would consist of teaching the volunteers toki pona
+until time runs out, or they reach a desired level of fluency for an interview. After
+which, the interview would be performed and documented.
+
+\section{Time Plan}
+I propose to divide the allotted four weeks as follows:
+\begin{itemize}
+ \item \textbf{Week 1:}
+ \begin{itemize}
+  \item Read selected UG literature
+  \item Provide volunteers with comprehensible input
+ \end{itemize}
+\item \textbf{Week 2:}
+ \begin{itemize}
+  \item Write first draft of UG Summary with sources
+  \item Provide volunteers with comprehensible input
+ \end{itemize}
+\item \textbf{Week 3:}
+ \begin{itemize}
+  \item Second, Third, etc. drafts of UG Summary with suggested changes
+  \item Provide volunteers with comprehensible input
+ \end{itemize}
+\item \textbf{Week 4:}
+ \begin{itemize}
+  \item Finalise UG Summary
+  \item Interview volunteers and transcribe/translate interview
+  \item Compile results in final document
+ \end{itemize}
+\end{itemize}
+
+\section{Signatures}
+\hfill \break
+\hfill \break
+\noindent\begin{tabular}{ll}
+\makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
+Student & Date\\[8ex]% adds space between the two sets of signatures
+\makebox[2.5in]{\hrulefill} & \makebox[2.5in]{\hrulefill}\\
+Teacher & Date\\
+\end{tabular}
+
+\end{document}
