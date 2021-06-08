@@ -1,0 +1,43 @@
+
+ 1 - The Nature of Universal Grammar (UG)
+
+    -   The interface between the External (E) world and
+	the Internal (I) world is called "The Computational System" by Chomsky
+
+    -	I-Linguistics studies the structures of language in our thoughts and
+	how speakers can create infinite sentences in their mind creatively.
+	To them, the difference between "dived" and "dove" is insignificant;
+	they both have the same internal semantics.
+	 --> Concerned with what people *could* do.
+
+    -	E-Linguistics studies the practical realisation of sounds and how they
+	can differ. To them, the difference between "dived" and "dove" is important.
+	 --> Concerned with what people *have* done.
+
+    -	The Computational System provides the link between Phonetic Form (PF) and
+	Logical Form (LF) relying on the Lexicon and Principles.
+
+    -	Lexicon stores the properties of words.
+    -	Principles dictate what structures can be used.
+
+    -	The Questions for Linguists are:
+	   I. What constitutes knowledge of language?
+	  II. How is such knowledge acquired?
+	 III. How is such knowledge put to use?
+	(IV). What are the physical mechanisms that
+	      serve as the material basis for this
+	      system of knowledge and for use of
+	      this knowledge?
+
+    -	          Competence: The speaker-hearer's knowledge of his language
+    -	         Performance: The actual use of language in concrete situations
+    -	Pargmatic Competence: Places language in the institutional setting of its
+	                      use, relating intentions and purposes to the ling-
+	                      uistic means at hand
+
+    -	Universals are principles like locality. They are part of the innate structure of
+	the human mind and don't have to be learned. They can't be 'violated', but are
+	simply not used in a certain context; They don't always need to be represented.
+
+    -	Chomskyan Universals needn't occur in all languages, while
+	Greenbergian Universals must.
