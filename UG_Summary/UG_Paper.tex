@@ -1,0 +1,196 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[linguistics]{forest}
+\usepackage[round,sort,comma,authoryear]{natbib}
+
+\newcommand{\mli}[1]{\mathit{#1}}
+
+\begin{document}
+
+\begingroup% Robert Frost, T&H p 149
+\centering
+\vfill
+\Huge{Noam Chomsky's}\\[0.5\baselineskip]
+\Huge {UNIVERSAL GRAMMAR}\\
+\Huge{\&}\\
+\Huge{The Current State of The Theory}\\[\baselineskip]
+\Large {Samuel Pearce}\par
+\large{\scshape 2021}\par
+\vfill\null
+\endgroup
+
+\begin{abstract}
+    Noam Chomsky's Theory of Universal Grammar has been the defining
+    theory behind linguistics for the past several decades. Many
+    linguists have based their career around how they stand in relation
+    to it, and no matter one's stance on the matter, it is impossible
+    to refute the Theory's monumental impact on the field as a whole.
+    This paper aims to outline --- very briefly --- what the theory
+    entails, how it has evolved since it was first proposed in the
+    1960s, and what the most current consensus on the matter is.
+\end{abstract}
+
+\pagebreak
+
+
+\tableofcontents
+\pagebreak
+
+
+\section{Universal Grammar}
+To begin with, what is universal grammar exactly, and what does it entail? Well, contrary to what
+I originally thought, it is not a defined linguistic grammar that applies to all human languages.
+The theory of universal grammar mainly consists of the hypothesis that language is an innate human
+faculty that is defined --- at least, to some extent --- by our biology and genetics. One of the
+well-known arguments Chomsky presents is that young children can understand grammatical concepts
+about the language they speak without having been taught it directly.\citep[p.~26]{ChUGAI}
+
+At its base, UG-theory suggests there is some kind of ``computation system'' that converts the
+external signals (sounds, symbols, sign-language, etc.) into internal ideas. \citep[p.~5]{ChUGAI}
+Most of what Chomsky worked on after the theory was put into place, was creating a formal system
+to analyse syntax of varying languages to compare which elements could be universal. The ideas
+and structures used to analyse language and form ideas about how such an internal system might
+be structure has been discussed and evolved over the past nearly half century:
+\begin{quote}
+	``The UG Theory claims to be a scientific theory based on solid evidence about language.
+	As such, it is always progressing towards better explanations for language knowledge....''
+	
+	\citep[p.~27]{ChUGAI}
+\end{quote}
+
+The theory split into two main branches, each focusing on one end of the computational system;
+they were the ``E-Language'' and ``I-Language'' branches. E-Language is primarily concerned with
+the actual physical manifestation of language by gathering large samples and analysing them. The
+I-Linguists focus on mapping out how these ideas are stored in the brain, whith the details of
+how they are expressed mostly irrelevant. To summarise: E-Language ``is concerned with what people
+have done'', while I-Language ``is concerned with what they could do'' \citep[p.~14]{ChUGAI}
+
+One of the first things one would think to analyse when speaking about a ``universal'' grammar
+are so-called linguistic universals; features that have the same structure throughout all human
+languages. Greenbergian universals, linguistic features like syntax structure or movement rules
+that appear in all natural languages \citep{Greenberg473}, differ from Chomskyan universals in that
+Chomskyan universals needn't manifest in every language; ``No language violates a universal principle
+(the language simply may not use the principle in a particular context)'' \citep[p.~23]{ChUGAI}
+
+
+\section{Generative Grammar}
+A generative grammar is a description of a language that uses a very explicit syntactic syntax.
+Chomsky himself defined it thusly:
+
+\begin{quote}
+	``When we speak of the linguist's grammar as a `generative grammar' we mean only that it is
+	sufficiently explicit to determine how sentences of the language are in fact characterised
+	by the grammar''
+	
+	\citep[p.~220]{Chomsky80}
+\end{quote}
+
+It is based on the idea of building up sentence syntax the same way one can with
+a mathematical grammar, like a programming language, possible syntax trees are written as recursive
+rewrite rules such as:
+
+\[        S \rightarrow \mli{NP} \; \mli{VP} \]
+\[ \mli{VP} \rightarrow V        \; \mli{NP} \]
+\[ \mli{NP} \rightarrow Det      \; N        \]
+
+In the above example a sentence (S) is defined as a noun-phrase (NP) plus a verb-phrase (VP),
+a verb-phrase consists of a verb (V) and a noun-phrase, and a noun-phrase is a determiner (Det) plus
+a noun (N). With these rules you can construct some of the many possible grammatically valid sentences
+for English. \citep[p.~32]{ChUGAI}
+
+Though this was just the beginning of a new way of analysing the syntactic structures of sentences
+which lead to many further developments.
+
+
+\section{Government/Binding Model}
+In the new government/binding model, the simple building blocks of language which were still being
+defined were stuck together modularly to create a model of how the computational system could be
+structured. At its base, the structure has two layers: the D-structure (deep structure) and the
+S-structure (surface structure). The D-structure reflects the base grammatical structure of the
+sentence, influenced by the lexicon and phrase structure rules explained above, while the S-structure
+is what is actually said after being adjusted by movement rules. \citep[p.~61]{ChUGAI}
+For example, in the following sentence, the ``whom'' would be the object of the sentence --- coming
+after the verb as usual --- in the D-Structure, but because it's a question, the object is moved
+to the front of the sentence:
+
+\begin{center}
+	* You did see whom. $\rightarrow$ Whom did you see?
+\end{center}
+
+This was the basis of the GB theory which would continue to be developed with new additions to
+help handle all cases seen in human languages that didn't already meet the basic model.
+
+
+\section{X-Bar Theory}
+In the earlier example we stated that a verb-phrase was defined as a verb and a noun-phrase, but
+some verbs are intransitive and don't take an object. While we could simply define two possible
+verb-phrase trees --- one with a object and one without --- this information is based on the word
+itself and this causes an unnecessary redundancy. Chomsky's rewrite rules were then expanded upon
+with the introduction of X-bar notation to remove this redundancy; a phrase could be defined using
+only following rewrite rules:
+
+\[ X'  \rightarrow  \mli{X}   \; (\mli{YP})\footnotemark[1] \]
+\[ X'' \rightarrow (\mli{YP})\footnotemark[2] \;  \mli{X'}  \]
+
+\footnotetext[1]{The complement is optional, it is determined by the head}
+\footnotetext[2]{The specifier is also optional, but isn't selected by the head}
+
+\begin{center}
+\begin{forest}
+[X$^{\prime\prime}$
+	[specifier]
+	[X$^{\prime}$
+		[X]
+		[complement]
+	]
+]
+\end{forest}
+	\linebreak
+	Fig. 1: The X-Bar rules displayed in a tree
+\end{center}
+
+Substitute X and Y with any of the four lexical categories in the theory
+--- Noun (N), Verb (V), Adjective (A), Preposition (P) --- and you have the structure of that phrase.
+This system can represent any phrase possible by recursively adding more elements to the tree.
+\citep[p.~66]{ChUGAI}
+
+\begin{center}
+\begin{forest}
+[S
+	[N$^{\prime\prime}$ [he, roof]]
+	[V$^{\prime\prime}$
+		[V$^{\prime}$
+			[V [flew]]
+			[P$^{\prime\prime}$
+				[P$^{\prime}$
+					[P [to]]
+					[N$^{\prime\prime}$ [London, roof]]
+				]
+			]
+		]
+	]
+]
+\end{forest}
+	\linebreak
+	Fig. 2: An example of recursive phrases from \citet[p.~68]{ChUGAI}
+\end{center}
+
+
+\section{Principles \& Parameters}
+
+
+\section{Minimalist Program}
+
+
+\section{Criticism}
+
+
+\section{My Impression}
+(Should I include this?)
+
+
+\pagebreak
+\bibliographystyle{plainnat}
+\bibliography{Bibliography}
+
+\end{document}
