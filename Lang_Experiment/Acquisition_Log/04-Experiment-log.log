@@ -1,0 +1,422 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.31)  7 JUN 2021 11:49
+entering extended mode
+**./04-Experiment-log.latex
+(04-Experiment-log.latex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-27> (E:\Progs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(E:\Progs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(E:\Progs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/leipzig\leipzig.sty
+Package: leipzig 2019/10/19 v2.3 Leipzig package for linguistic abbreviations
+
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+
+(E:\Progs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(E:\Progs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(E:\Progs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(E:\Progs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(E:\Progs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count189
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+
+(E:\Progs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count190
+)
+\@glsmfirst=\toks19
+\@glsmrest=\toks20
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(E:\Progs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(E:\Progs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(E:\Progs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen139
+))
+(E:\Progs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(E:\Progs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks22
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks23
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count269
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/datatool\datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count270
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count271
+\FP@xia=\count272
+\FP@xib=\count273
+\FP@xfa=\count274
+\FP@xfb=\count275
+\FP@rega=\count276
+\FP@regb=\count277
+\FP@regs=\count278
+\FP@times=\count279
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count280
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks26
+\@dtl@tmpcount=\count281
+\dtl@tmplength=\skip52
+\dtl@sortresult=\count282
+\@dtl@numgrpsepcount=\count283
+\@dtl@datatype=\count284
+\dtl@codeA=\count285
+\dtl@codeB=\count286
+\@dtl@foreach@level=\count287
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/base\glossaries-compa
+tible-307.sty
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+)
+\gls@level=\count288
+\@gls@tmpb=\toks27
+\gls@tmplen=\skip53
+\glskeylisttok=\toks28
+\glslabeltok=\toks29
+\glsshorttok=\toks30
+\glslongtok=\toks31
+
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-hyper
+nav.sty
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-list.
+sty
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip54
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-long.
+sty
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+ (E:\Progs\MiKTeX\tex/latex/latex-tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count289
+\LTcapwidth=\dimen148
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count290
+\LT@rows=\count291
+\c@LT@tables=\count292
+\c@LT@chunks=\count293
+\LT@p@ftn=\toks32
+)
+\glsdescwidth=\skip59
+\glspagelistwidth=\skip60
+)
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-super
+.sty
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count294
+\ST@wd=\dimen149
+\ST@rightskip=\skip61
+\ST@leftskip=\skip62
+\ST@parfillskip=\skip63
+\ST@pageleft=\dimen150
+\ST@headht=\dimen151
+\ST@tailht=\dimen152
+\ST@pagesofar=\dimen153
+\ST@pboxht=\dimen154
+\ST@lineht=\dimen155
+\ST@prevht=\dimen156
+\ST@toadd=\dimen157
+\ST@dimen=\dimen158
+\ST@pbox=\box53
+))
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-tree.
+sty
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip64
+))
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-mcols
+.sty
+Package: glossary-mcols 2020/03/19 v4.46 (NLCT)
+ (E:\Progs\MiKTeX\tex/latex/latex-tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count295
+\mult@box=\box54
+\multicol@leftmargin=\dimen159
+\c@unbalance=\count296
+\c@collectmore=\count297
+\doublecol@number=\count298
+\multicoltolerance=\count299
+\multicolpretolerance=\count300
+\full@width=\dimen160
+\page@free=\dimen161
+\premulticols=\dimen162
+\postmulticols=\dimen163
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box55
+\last@line=\box56
+\maxbalancingoverflow=\dimen164
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@gfirstbox=\box59
+\mult@firstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count301
+\c@columnbadness=\count302
+\c@finalcolumnbadness=\count303
+\last@try=\dimen165
+\multicolovershoot=\dimen166
+\multicolundershoot=\dimen167
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count304
+))
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/glossaries/styles\glossary-inlin
+e.sty
+Package: glossary-inline 2020/03/19 v4.46 (NLCT)
+) (C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/leipzig\leipzig.tex)
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 503.
+
+) (C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/gb4e\gb4e.sty
+(C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/gb4e\cgloss4e.sty
+\lineone=\box100
+\linetwo=\box101
+\linethree=\box102
+\wordone=\box103
+\wordtwo=\box104
+\wordthree=\box105
+\gline=\box106
+\glossglue=\skip67
+)
+\c@fnx=\count305
+\@xnumdepth=\count306
+\c@xnumi=\count307
+\c@xnumii=\count308
+\c@xnumiii=\count309
+\c@xnumiv=\count310
+\c@exx=\count311
+\c@rxnumi=\count312
+\c@rxnumii=\count313
+\c@rxnumiii=\count314
+\c@rxnumiv=\count315
+\lcommentsep=\skip68
+)
+(E:\Progs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count316
+\l__pdf_internal_box=\box107
+)
+(04-Experiment-log.aux)
+\openout1 = `04-Experiment-log.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (04-Experiment-log.toc)
+\tf@toc=\write3
+\openout3 = `04-Experiment-log.toc'.
+
+ [1
+
+{C:/Users/sam/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5] [
+6] (04-Experiment-log.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8210 strings out of 479081
+ 122432 string characters out of 2866349
+ 469292 words of memory out of 3000000
+ 25824 multiletter control sequences out of 15000+600000
+ 409372 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,7n,110p,1028b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\sam\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
+00.pk><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Progs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Progs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Progs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on 04-Experiment-log.pdf (6 pages, 117360 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

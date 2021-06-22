@@ -1,0 +1,333 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{leipzig}
+\usepackage{gb4e}
+
+%opening
+\title{Language Acquisition Experiment Log}
+\author{Samuel Pearce}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\pagebreak
+
+\section{Experiment Parameters}
+
+\begin{itemize}
+ \item Duration:        From June 1st to June 25th, 2021.
+ \item Experimenter:    Samuel Pearce
+ \item Participant A:   Julian Werner, Male, 18
+ \item Participant B:   Amin Haidar Male, 19
+\end{itemize}
+
+
+\subsection{Experiment Rules For Participant B}
+\begin{enumerate}
+ \item The experimenter is, at no point during the experiment period,
+ allowed to explain anything about Toki Pona to the participant in
+ any language other than Toki Pona.
+ \item The participant is not allowed to independently seek resources
+ about Toki Pona. Any external resources for them are to be provided by
+ the experimenter.
+ \item The participant may take notes and review them outside of
+ experimentation times.
+ \item The experimenter may not confirm or deny
+ any of the participant's notes or guesses.
+\end{enumerate}
+
+\subsection{Notes on glosses}
+A few non-standard gloss abbreviations and elements are used
+throughout this document, so I have defined their meaning here:
+\begin{itemize}
+ \item The pictographic
+ elements will be replaced in the glosses with simple descriptions of their
+ contents and meaning in square brackets ([ Image ; Intended Meaning ])
+ E.g.: [Tree Image; Plants/Trees/Nature]
+ \item Toki Pona includes context phrases that add extra information
+ about the context of a sentence and build conditionals. The separator
+ will be abbreviated as ``CTXT'' in glosses.
+\end{itemize}
+
+
+
+\section{Session 1 - June 1st}
+The first session began in a text chat with the ability to send emoji
+and images. The experimenter attempted to establish the basic sentence
+structure with comprehensible pictographic substitution.
+
+\begin{exe}
+ \ex
+ \gll pona li [Thumbs Up; Good] \\
+ good PM [Thumbs Up; Good] \\
+ \glt ``pona'' (is) ``good''
+\end{exe}
+\begin{exe}
+ \ex
+ \gll ike li [Thumbs Down; Bad] \\
+ bad PM [Thumbs Down; Bad] \\
+ \glt ``ike'' (is) ``bad''
+\end{exe}
+
+Which was generally perceived correctly, but the participant
+did not understood the meaning of the subject-verb separator ``li''.
+The next concepts to be introduced were ``yes/correct'' and ``no/incorrect''
+to enforce the participant's correct usage of phrases.
+
+\begin{exe}
+ \ex
+ \gll ala li [Red X-Shape; No/Incorrect] \\
+ no PM [Red X-Shape; No/Incorrect] \\
+ \glt ``ala'' (is) ``No/Incorrect''
+\end{exe}
+\begin{exe}
+ \ex
+ \gll lon li [Green Checkmark; Yes/Correct] \\
+ yes PM [Green Checkmark; Yes/Correct] \\
+ \glt ``lon'' is ``Yes/Correct''
+\end{exe}
+
+After the basic structure was grasped, the word for person --- a prefix
+required to write names in Toki Pona --- was explained along with the
+basic pronouns by using the participant's names. For this, it was
+fortunate that there were at least three people present, in order to
+explain the concepts of first, second, and third person.
+
+\begin{exe}
+ \ex
+ \gll mi jan. sina jan. [Face; Person] li jan \\
+ 1SG be-person. 2SG be-person. [Face; Person] PM be-person \\
+ \glt I am a person. You are a person. People are people.
+\end{exe}
+
+At this explanation, the participant independently responded with variations
+on the following:
+
+\begin{exe}
+ \ex
+ \gll jan li [Face; Person] \\
+ person PM [Face; Person] \\
+ \glt ``jan'' (is) ``person''
+\end{exe}
+
+To which, the experimenter could now respond with ``lon'' meaning, ``Yes'' or
+``Correct''. Given the informal nature of the experiment, the participant
+took the opportunity of having the basic ``X is Y'' sentence structure
+to insult the other participant and the experimenter, in a jovial fashion,
+by saying variations of the following:
+
+\begin{exe}
+ \ex
+ \gll jan Julian li ike. \\
+ person Julian PM be-bad \\
+ \glt Julian is bad.
+\end{exe}
+
+It was around this time that correct Toki Pona spelling was explained, through
+emphasized corrections. The participant used the other's name in lower case,
+which the experimenter corrected by responding to it, with the corrected capital
+letter emphasized. This concept was quite quickly understood.
+
+Once everyone began speaking face-to-face, the experimenter explained the Toki Pona
+demonstrative ``ni'' by pointing at various things and explaining what they
+were using the established vocabulary. 
+
+\begin{exe}
+ \ex
+ \gll ni li ijo. \\
+ this PM be-thing \\
+ \glt This is a thing.
+\end{exe}
+
+With the basic framework of these 10 words, explaining other novel concepts
+through the use of images was quite easy and got both participants forming
+basic sentences to describe their environment and what they were doing
+quite quickly:
+
+\begin{tabular}{ r | l }
+ Toki Pona & English \\
+ \hline
+ li & Predicate Marker \\
+ mi & I, me, my, we, us, our \\
+ sina & you, your \\
+ ona & he, she, it, him, her, his, hers, its \\
+ pona & good, simple \\
+ ike & bad, complicated \\
+ lon & yes, correct, true \\
+ ala & no, not, none \\
+ ni & this, that \\
+ ijo & thing \\
+ \hline  
+\end{tabular}
+
+\hfill\break
+After some basic nouns were learned through pictograms, the more complicated
+concept of motion and giving/receiving things was discussed. At first the
+word ``tawa'', meaning ``to move'' was explained by the experimenter getting
+up and walking across the room while saying ``mi tawa.'' (``I go/walk.'').
+After this, the preposition form of ``tawa'' was explained using the help
+of the word ``pana'' which means ``to give''. The participant handed
+the experimenter a book and asked what they was doing, to which the experimenter
+replied:
+
+\begin{exe}
+ \ex
+ \gll sina pana e ni tawa mi. \\
+ 2SG give ACC this PREP.to 1SG \\
+ \glt You are giving this to me.
+\end{exe}
+
+After a few clarifications and re-enunciations, the participant understood
+the meaning. At around this point, They began compiling a  dictionary.
+
+The final concept explained
+was the opposite of ``tawa'': that of ``kama'' meaning ``to arrive/come'' or ``to become''
+and the concept of ``tan'' meaning ``from''. ``kama'' was fairly easily
+explained by a pictograph of a person walking in the opposite direction
+from a similar pictograph labelled ``tawa''. After that, the experimenter
+attempted to strengthen the understanding by passing around the book again
+and trying to explain that the book came from him:
+
+\begin{exe}
+ \ex
+ \gll mi pana e ni tawa sina. ni li kama tan mi. \\
+ 1SG give ACC this PREP.to 2SG. this PM come PREP.from 1SG\\
+ \glt I give this to you. This came from me.
+\end{exe}
+
+Though the efforts were not fruitful, it eventually occurred to the experimenter
+to use the mutual knowledge of each other's lives to cement tan's meaning:
+
+\begin{exe}
+ \ex
+ \gll mi kama tan ma New Zealand\footnotemark. \\
+ 1SG come PREP.from country New Zealand.\\
+ \glt I come from New Zealand.
+\end{exe}
+\footnotetext{New Zealand would normally be referred to as ``ma Nusilan''--- like all
+foreign words --- to conform to Toki Pona's phonetics, but it was decided to choose the
+style of simply using words' native forms, to simplify referring to external subjects.}
+
+This was immediately understood and served to make the participants sure of
+their guesses as to its meaning.
+
+This first session ended and all members discussed (in English) the plans
+of when to meet and what the scope of the experiment should be. It was suggested that they could
+also learn Sitelen Pona, Toki Pona's own logographic writing system. This
+was left open as an option depending on how much the participants were able
+to learn in the time allotted. Both participants seem enthusiastic to
+continue the experiment out of their own curiosity.
+
+
+\section{Session 2 - June 6th}
+
+To begin this session, the next most important beginner phrase was
+explained: ``What is this?''. By explaining this, the participant would
+be able to request new information or ask for clarification of existing
+information independently. A dialogue was used to clear up the meaning:
+
+\begin{exe}
+ \ex
+ \gll A: ni li seme? B: ni li moku. A: a! mi sona! \\
+ A: this PM be-what? B: this PM be-food. A: EXCL! 1SG understand! \\
+ \glt A: What is this? B: This is food. A: Ah! I understand!
+\end{exe}
+
+Next, the basic colours were explained to participant B
+through pictures. The following phrases were told which they immediately
+understood.
+
+\begin{exe}
+ \ex
+ \gll [Image of colour spectrum; Colour] li `kule'. \\
+ [Image of colour spectrum; Colour] PM be-colour.\\
+ \glt Colour is ``kule''.
+\end{exe}
+\begin{exe}
+ \ex
+ \gll [Red Circle; Red] li `loje'. \\
+ [Red Circle; Red] PM be-red.\\
+ \glt Red is ``loje''.
+\end{exe}
+\begin{exe}
+ \ex
+ \gll [Green and Blue Circle; Grue] li `laso'. \\
+ [Green and Blue Circle; Grue] PM be-grue.\\
+ \glt Grue (Green \& Blue) is ``laso''.
+\end{exe}
+\begin{exe}
+ \ex
+ \gll [Yellow Circle; Yellow] li `jelo'. \\
+ [Yellow Circle; Yellow] PM be-yellow.\\
+ \glt Yellow is ``jelo''.
+\end{exe}
+
+The participant's knowledge was then confirmed by asking the following:
+
+\begin{exe}
+ \ex
+ \gll kasi li jo e kule seme? \\
+ plants PM have ACC colour what?\\
+ \glt What colour do plants have?
+\end{exe}
+
+Which was answered with ``laso''. The correct answer was reinforced
+with a ``lon'' and a few more similar examples were tested.
+After the session, the participants were polled on the idea of
+learning the writing system, which they were against given the
+very tight time scope of the project.
+
+\section{Session 3 - June 4th}
+During an impromptu gaming session, it was suggested that participant B
+and I attempt to play the video game Minecraft while only conversing
+in Toki Pona. This served mainly to expand the vocabulary, as the most
+basic required grammatical concepts were already fairly well understood.
+
+The virtual environment provided an excellent way to strengthen connections
+through visual confirmation; the experimenter could point to an in-game item
+and explain its meaning with the participant able to respond in kind. At
+this point vocabulary like ``Stone'', ``Wood'', ``Table'', ``House'' and
+``Sleep'' could be acquired through direct examples.
+
+Near the end of the session, the concept of time and tenses was attempted
+to be explained by use of the in-game day/night cycle. The word for sky
+was explained by stating ``The sky is blue.'' during the day and ``The
+sky is black.'' during the night. Next, names for day and night and the
+heavenly bodies were explained by pointing them out when they were visible.
+``tenpo pimeja'' was soon picked up to mean ``night time'' (LIT. ``dark time'').
+Finally, tenses were explained with the following phrases after a night of
+sleep:
+
+\begin{exe}
+ \ex
+ \gll tenpo pini, la sewi li pimija. \\
+ time finished, CTX sky PM be-dark.\\
+ \glt LIT. In finished time, the sky is dark.
+ \glt ``Then, the sky was dark.''
+\end{exe}
+
+\begin{exe}
+ \ex
+ \gll tenpo ni, la sewi li walo. \\
+ time this, CTX sky PM be-light.\\
+ \glt LIT. In this time, the sky is bright.
+ \glt ``Now, the sky is bright.''
+\end{exe}
+
+\begin{exe}
+ \ex
+ \gll tenpo kama, la sewi li pimija. \\
+ time coming, CTX sky PM be-dark.\\
+ \glt LIT. In coming time, the sky is dark.
+ \glt ``Soon, the sky will be dark.''
+\end{exe}
+
+It took a few examples and laying out the tenses on a
+physical timeline, but the participant eventually
+understood.
+
+\end{document}
