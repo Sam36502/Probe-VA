@@ -4,25 +4,22 @@ CD C:\Users\sam\Documents\GitHub\Probe-VA\Lang_Experiment\Review
 
 ECHO --- Creating Backup ---
 
-COPY UG_Paper.tex UG_Paper_BACKUP.tex
+COPY Experiment_Review.tex Experiment_Review_BACKUP.tex
 
 ECHO --- Creating temporary files ---
 
-DEL UG_Paper.pdf
+DEL Experiment_Review.pdf
 MKDIR tmp
 COPY .\* .\tmp
 CD .\tmp
 
-ECHO --- Building UG_Paper.tex ---
+ECHO --- Building Experiment_Review.tex ---
 
-pdflatex.exe UG_Paper
-bibtex.exe UG_Paper
-pdflatex.exe UG_Paper
-pdflatex.exe UG_Paper
+pdflatex.exe Experiment_Review
 
 ECHO --- Done! ---
 
-COPY UG_Paper.pdf ..
+COPY Experiment_Review.pdf ..
 CD ..
 
 ECHO --- Removing temporary files ---
