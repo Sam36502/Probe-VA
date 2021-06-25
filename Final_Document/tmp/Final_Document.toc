@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Foreword}{3}%
+\contentsline {section}{\numberline {2}Introduction}{3}%
+\contentsline {subsection}{\numberline {2.1}Experiment Parameters}{3}%
+\contentsline {subsection}{\numberline {2.2}Hypothesis}{3}%
+\contentsline {subsection}{\numberline {2.3}Note on Glosses}{4}%
+\contentsline {subsection}{\numberline {2.4}Toki Pona Pronunciation}{4}%
+\contentsline {subsection}{\numberline {2.5}Pure Immersion Method}{5}%
+\contentsline {subsection}{\numberline {2.6}Vocab \& Grammar Method}{7}%
+\contentsline {section}{\numberline {3}Results}{7}%
+\contentsline {subsection}{\numberline {3.1}Dialogue}{7}%
+\contentsline {subsection}{\numberline {3.2}Conveyance Test}{8}%
+\contentsline {subsection}{\numberline {3.3}Resultant Data}{8}%
+\contentsline {subsection}{\numberline {3.4}Discussion}{8}%
+\contentsline {section}{\numberline {4}Summary}{8}%
+\contentsline {subsection}{\numberline {4.1}Retrospective}{8}%
+\contentsline {subsection}{\numberline {4.2}Further Research}{8}%
+\contentsline {subsection}{\numberline {4.3}Conclusion}{8}%
+\contentsline {section}{\numberline {5}Work Schedule}{8}%
+\contentsline {subsection}{\numberline {5.1}Week 1}{8}%
+\contentsline {subsection}{\numberline {5.2}Week 2}{9}%
+\contentsline {subsection}{\numberline {5.3}Week 3}{9}%
+\contentsline {subsection}{\numberline {5.4}Week 4}{9}%
+\contentsline {section}{\numberline {6}Learning Journal}{10}%
+\contentsline {subsection}{\numberline {6.1}Time Management}{10}%
+\contentsline {subsection}{\numberline {6.2}Research Method}{10}%
+\contentsline {subsection}{\numberline {6.3}Experimentation Method}{10}%
+\contentsline {subsection}{\numberline {6.4}Writing Method}{11}%
+\contentsline {subsection}{\numberline {6.5}Future Improvements}{11}%
+\contentsline {section}{\numberline {7}Declaration of Independence}{11}%

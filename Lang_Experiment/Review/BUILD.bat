@@ -16,6 +16,7 @@ CD .\tmp
 ECHO --- Building Experiment_Review.tex ---
 
 pdflatex.exe Experiment_Review
+pdflatex.exe Experiment_Review
 
 ECHO --- Done! ---
 
