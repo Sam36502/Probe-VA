@@ -41,3 +41,10 @@
 
     -	Chomskyan Universals needn't occur in all languages, while
 	Greenbergian Universals must.
+
+
+ 2 - Principles, Parameters and Language Acquisition
+
+    -	Phrase structure can be diagrammed with a tree, brackets or rewrite rules (Think BNF)
+
+    -	

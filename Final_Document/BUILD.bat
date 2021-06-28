@@ -1,6 +1,6 @@
 @ECHO off
-C:
-CD C:\Users\sam\Documents\GitHub\Probe-VA\Final_Document
+E:
+CD E:\TBZ\Probe-VA\Final_Document
 
 ECHO --- Creating Backup ---
 
