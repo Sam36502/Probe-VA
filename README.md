@@ -15,3 +15,7 @@ official book's lessons and flashcard software --- while the
 other volunteer will be taught toki pona through pure immersion;
 the experimenter may not explain any toki pona concepts or words
 to the participant in any language other than toki pona.
+
+## [Final Document](Final_Document/Final_Document.pdf)
+
+## [UG Summary PDF](UG_Summary/UG_Paper.pdf)
